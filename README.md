@@ -85,10 +85,13 @@ Frontend runs on [http://localhost:5173](http://localhost:5173)
 
 ✅ Real-time Status Updates with WebSockets
 
-
 ## ⭐ Contributing
 
 Want to improve this project? Feel free to fork and submit a PR! 🚀
+
+----------
+
+**Explanation Video link: ** https://drive.google.com/file/d/1bvgfnlPuccS-0tovxiQBm1rdxIEr_XQz/view?usp=sharing
 
 🎉 Happy Coding!
 
